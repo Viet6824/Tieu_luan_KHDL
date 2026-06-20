@@ -1,0 +1,11 @@
+metric,value
+top_brand_count,"('vivo', 135)"
+top_brand_price,"('vertu', 127359110.55999999)"
+most_common_ram,8.0
+most_common_storage,128.0
+avg_battery,5910.256770310933
+avg_screen,6.716381909547739
+trend_percent,87.2617853560682
+price_corr,"{'ram': 0.5284383739078542, 'storage': 0.41911233306293705, 'screen_size': 0.18188742716656447, 'battery_capacity': -0.08202412962014093}"
+segment_counts,"{'Tầm trung': 582, 'Cao cấp': 244, 'Phổ thông': 171}"
+pred_accuracy,0.855
